@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Stt</string>
+
+    <!-- fragment_main -->
+    <string name="roomID">방이름</string>
+    <string name="roomIDHint">방이름을 적으세요</string>
+    <string name="myName">이름</string>
+    <string name="myNameHint">이름을 적으세요</string>
+    <string name="submit">확인</string>
+
+    <!-- nav_graph -->
+    <string name="mainFragment">Main</string>
+    <string name="callingFragment">Calling</string>
+
+    <!-- fragment_calling -->
+    <string name="mic">mic false</string>
+
+</resources>
